@@ -8,14 +8,11 @@
 
 2. FORK this repository
 
-3. Create a branch named `first-last` where `first` is your first name and
-   `last` is your last name
+3. The **FIRST** 5 questions in this exam test your knowledge of JavaScript arrays, objects, loops, conditions, writing functions, and string manipulation.
 
-4. The **FIRST** 5 questions in this exam test your knowledge of JavaScript arrays, objects, loops, conditions, writing functions, and string manipulation.
+4. The **SECOND** 5 questions in this exam test your knowledge of manipulating the DOM via JavaScript.
 
-5. The **SECOND** 5 questions in this exam test your knowledge of manipulating the DOM via JavaScript.
-
-6. Write your solutions to the problems inside `solutions.js`. You can use the Jasmine unit testing file `assessment.html` to check your answers to the FIRST FIVE questions. Read the [Testing instructions below](#testing-your-work-w-automated-tests). You can check the correctness of your answers to the SECOND FIVE questions by examining the results in `index.html`. **NOTE: please use jQuery and BOM methods for this assessment.** Allowing the use of vanilla JS DOM methods is up to the instructor. Please ask your instructor for clarification before the assessment begins.
+5. Write your solutions to the problems inside `solutions.js`. **NOTE: please use jQuery and BOM methods for this assessment.** Allowing the use of vanilla JS DOM methods is up to the instructor. Please ask your instructor for clarification before the assessment begins.
 
 6. Add and commit throughout the assessment
 
